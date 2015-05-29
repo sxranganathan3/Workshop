@@ -1,0 +1,4 @@
+to config it we use the command:git config --global user.name "Your Name"
+to config it we use the command:git config --global user.email "Your mail id"
+ls: Shows list of things in that directory we start
+ls -a : Show even the files which are hidden(hidden files)
